@@ -1,6 +1,5 @@
-/* Archivo: styles.css */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -44,9 +43,9 @@ a:hover {
 
 img {
     max-width: 100%;
-    height: auto;
+    max-height: 300px; /* Set maximum height for uniformity */
     display: block;
-    margin: 10px 0;
+    margin: 10px auto;
 }
 
 footer {
