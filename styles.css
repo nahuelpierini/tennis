@@ -43,7 +43,7 @@ a:hover {
 
 img {
     max-width: 100%;
-    max-height: 300px; /* Set maximum height for uniformity */
+    max-height: 800px; /* Set maximum height for uniformity */
     display: block;
     margin: 10px auto;
 }
